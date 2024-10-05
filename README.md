@@ -12,11 +12,11 @@ Esta es una aplicación simple de React Native que obtiene la ubicación GPS act
 ## Instalación ⚙️
 1. Clonar este repositorio:
     ```bash
-    git clone https://github.com/tu-repo/gps-location-app.git
+    git clone https://github.com/tu-repo/GPS.git
     ```
 2. Navegar al directorio del proyecto:
     ```bash
-    cd gps-location-app
+    cd GPS
     ```
 3. Instalar las dependencias:
     ```bash
